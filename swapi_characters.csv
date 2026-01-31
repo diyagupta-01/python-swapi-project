@@ -1,0 +1,21 @@
+name,height,mass,gender,birth_year,homeworld_url,films_count
+Luke Skywalker,172,77,male,19BBY,https://swapi.dev/api/planets/1/,4
+C-3PO,167,75,n/a,112BBY,https://swapi.dev/api/planets/1/,6
+R2-D2,96,32,n/a,33BBY,https://swapi.dev/api/planets/8/,6
+Darth Vader,202,136,male,41.9BBY,https://swapi.dev/api/planets/1/,4
+Leia Organa,150,49,female,19BBY,https://swapi.dev/api/planets/2/,4
+Owen Lars,178,120,male,52BBY,https://swapi.dev/api/planets/1/,3
+Beru Whitesun lars,165,75,female,47BBY,https://swapi.dev/api/planets/1/,3
+R5-D4,97,32,n/a,unknown,https://swapi.dev/api/planets/1/,1
+Biggs Darklighter,183,84,male,24BBY,https://swapi.dev/api/planets/1/,1
+Obi-Wan Kenobi,182,77,male,57BBY,https://swapi.dev/api/planets/20/,6
+Anakin Skywalker,188,84,male,41.9BBY,https://swapi.dev/api/planets/1/,3
+Wilhuff Tarkin,180,unknown,male,64BBY,https://swapi.dev/api/planets/21/,2
+Chewbacca,228,112,male,200BBY,https://swapi.dev/api/planets/14/,4
+Han Solo,180,80,male,29BBY,https://swapi.dev/api/planets/22/,3
+Greedo,173,74,male,44BBY,https://swapi.dev/api/planets/23/,1
+Jabba Desilijic Tiure,175,"1,358",hermaphrodite,600BBY,https://swapi.dev/api/planets/24/,3
+Wedge Antilles,170,77,male,21BBY,https://swapi.dev/api/planets/22/,3
+Jek Tono Porkins,180,110,male,unknown,https://swapi.dev/api/planets/26/,1
+Yoda,66,17,male,896BBY,https://swapi.dev/api/planets/28/,5
+Palpatine,170,75,male,82BBY,https://swapi.dev/api/planets/8/,5
